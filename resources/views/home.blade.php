@@ -63,13 +63,13 @@
         [
             'title' => 'Cafe-VNZ',
             'desc' => 'Website cafe yang dibangun menggunakan Next.js dengan database MySQL (Prisma ORM) dan sistem autentikasi pengguna. Dilengkapi dengan animasi dan tampilan interaktif menggunakan GSAP.',
-            'image' => 'img/portofolio/portofolio1.png',
+            'image' => 'img/portofolio/portofolio2.png',
             'link' => 'https://github.com/revanXDxd/cafe-vnz',
         ],
         [
             'title' => 'Booking-Goor',
             'desc' => 'Sistem booking lapangan olahraga berbasis web menggunakan Laravel. Pengguna dapat melakukan reservasi lapangan secara online, sementara admin memiliki panel khusus untuk mengelola data booking dan lapangan.',
-            'image' => 'img/portofolio/portofolio2.png',
+            'image' => 'img/portofolio/portofolio1.png',
             'link' => 'https://github.com/revanXDxd/Projek-Akhir',
         ],
     ];
